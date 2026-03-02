@@ -1,6 +1,5 @@
 ## Olá sou José Carlos de Mello Junior 
-
-- 🔭 Hoje trabalho em uma empresa de limpeza 
+ 
 - 🌱 Estou cursando Tecnologia da informação ADSIS
 - 📫 Contate-me no e-mail: juniormello30@gmail.com
 - 😄 Pronomes: Ele/Dele
